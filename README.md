@@ -3,7 +3,7 @@
 Меня зовут Феодора, я Бэкенд-разработчик. Я работаю в IT- компании Интерпроком, где наша команда занимается разработкой импортозамещающего програмного обеспечения для крупных компаний.
 ## Мои контакты:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/a/)[(@DoraLog)]
+[(@DoraLog)](https://web.telegram.org/a/)
 
 ## Технологический стек: 
  
