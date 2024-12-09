@@ -22,7 +22,7 @@
 [![Nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.org/ru/)
 [![opencv](https://skillicons.dev/icons?i=opencv)](https://opencv.org/)
 [![Qt](https://skillicons.dev/icons?i=qt)](https://habr.com/ru/companies/skillfactory/articles/599599/)
-[![vscode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+
 
 [![Django%20Rest%20Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.django-rest-framework.org/)
 [![Gunicorn](https://img.shields.io/badge/Gunicorn-092E20?style=for-the-badge&logo=gunicorn&logoColor=00A98F)](https://gunicorn.org/)
